@@ -1,0 +1,2 @@
+x = I AM SINGLE 
+Print(x)
